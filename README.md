@@ -7,3 +7,5 @@ Here, I will list my 100 projects that I complete each in one day.
     - Python
  3. [Simple Calendar App](https://github.com/ali4zimi/simple-calendar)
     - HTML, CSS, JavaScript
+ 4. [Enchant Scrollbar](https://github.com/ali4zimi/enchant-scrollbar)
+    - Typescript, ViteJS
