@@ -5,8 +5,8 @@ Here, I will list my 100 projects that I complete each in one day.
     - Java
  2. [Create calendar file (ics) from excel file](https://github.com/ali4zimi/excel-to-ics)
     - Python
- 3. [Simple Calendar App](https://github.com/ali4zimi/simple-calendar)
-    - HTML, CSS, JavaScript
+ 3. [3D Stusta Campus](https://github.com/ali4zimi/stusta-campus)
+    - Vite, ThreeJS, Tailwindcss
  4. [Enchant Scrollbar](https://github.com/ali4zimi/enchant-scrollbar)
     - Typescript, ViteJS
  5. [Negah Marketplace](https://github.com/ali4zimi/negah)
