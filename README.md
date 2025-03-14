@@ -13,5 +13,3 @@ Here, I will list my 100 projects that I complete each in one day.
     - NuxtJS, Google Firebase
  6. [Rubab - A Spotify clone](https://github.com/ali4zimi/rubab)
     - NuxtJS, VueRouter
- 7. [Load Balancer using Nginx in Kubernetes](https://github.com/ali4zimi/kubernetes-nginx-load-balancer)
-    - Kubernetes, Docker, MongoDB
